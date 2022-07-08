@@ -1,0 +1,4 @@
+name: PluginDemos
+version: '${project.version}'
+main: xyz.jaegyu.plugindemos.PluginDemos
+api-version: 1.19
